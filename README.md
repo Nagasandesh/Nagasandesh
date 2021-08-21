@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nagasandesh
+- 👀 I’m interested in Learning New Technologies and solve challenging tasks.
+- 🌱 I’m currently learning Front End Development and competitive Coding.
+- Currently exploring JavaScript, React.
+- Interested in AI/ML.

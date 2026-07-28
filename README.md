@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nagasandesh ecosystem 
-- Exploring Blockchain Tech and Web3
+- Exploring AI Agent Ecosystem
 - 👀 I’m an active Trailblazer helping businesses with Salesforce solutions.
-- 🌱 I’m a Salesforce Developer with expertize in Sales Cloud, also worked on Service and Marketing Cloud for nearly 3 years.
-- Currently exploring JavaScript, AgentForce, Prompt Builder.
+- 🌱 I’m a Salesforce Developer with expertize in Sales Cloud, Health Cloud also worked on Service and Marketing Cloud for more 4 years.
 - Skills: 
   LWC(SLDS) , Apex 
   Integration (REST API)

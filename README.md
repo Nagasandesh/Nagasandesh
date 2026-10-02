@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nagasandesh ecosystem 
+- 👋 Hi, I’m Nagasandesh 
 - Exploring AI Agent Ecosystem
 - 👀 I’m an active Trailblazer helping businesses with Salesforce solutions.
 - 🌱 I’m a Salesforce Developer with expertize in Sales Cloud, Health Cloud also worked on Service and Marketing Cloud for more 4 years.
